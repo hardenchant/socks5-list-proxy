@@ -30,5 +30,5 @@ go run main -url https://path/to/proxies.txt -u test:test
 Docker run:
 ```bash
 docker build -t socks5-list-proxy .
-docker run --rm socks5-list-proxy -url https://path/to/proxies.txt -u test:test
+docker run socks5-list-proxy -url https://path/to/proxies.txt -u test:test
 ```
