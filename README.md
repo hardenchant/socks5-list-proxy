@@ -3,7 +3,7 @@ Socks5 2 level proxy written on Go, support updating proxy list.
 
 
 Help:
-```bash
+```
 ./socks5-list-proxy -h
 
 Usage of 2 level proxy server. Update proxy list every n seconds.:
